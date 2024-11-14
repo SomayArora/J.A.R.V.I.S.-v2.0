@@ -1,0 +1,44 @@
+#Title: Evolution of Humans
+
+#Slide: 1
+#Header: table of contents
+#Content: 1. Introduction to Evolution  
+2. Early Hominids  
+3. Homo Species  
+4. Neanderthals vs. Homo Sapiens  
+5. Migration Patterns  
+6. Cultural Evolution  
+7. Modern Humans  
+8. Summary
+
+#Slide: 2
+#Header: Introduction to Evolution
+#Content: Evolution explains how species change over time. Humans evolved from common ancestors with primates, driven by natural selection, genetic drift, and environmental changes.
+
+#Slide: 3
+#Header: Early Hominids
+#Content: Early hominids, like Australopithecus, emerged around 4 million years ago. They walked upright, showcasing key adaptations for survival and social interaction.
+
+#Slide: 4
+#Header: Homo Species
+#Content: The genus Homo appeared about 2.5 million years ago. Notable species include Homo habilis and Homo erectus, known for tool use and migration from Africa.
+
+#Slide: 5
+#Header: Neanderthals vs. Homo Sapiens
+#Content: Neanderthals coexisted with early Homo sapiens. They adapted to cold climates but eventually went extinct, possibly due to competition and interbreeding.
+
+#Slide: 6
+#Header: Migration Patterns
+#Content: Homo sapiens migrated out of Africa around 60,000 years ago, spreading across the globe. This led to diverse cultures and adaptations in different environments.
+
+#Slide: 7
+#Header: Cultural Evolution
+#Content: With the advent of language, art, and agriculture, humans developed complex societies. This cultural evolution significantly impacted survival and social structures.
+
+#Slide: 8
+#Header: Modern Humans
+#Content: Today, Homo sapiens is the sole surviving human species. Our understanding of evolution continues to evolve through genetics and archaeology, reshaping our history.
+
+#Slide: 9
+#Header: summary
+#Content: Human evolution is a complex journey from early hominids to modern humans, influenced by migration, competition, and cultural developments. Understanding our past helps us appreciate our place in the world.

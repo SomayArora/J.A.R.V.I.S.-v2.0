@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6476b93-4984-4855-9c1a-8d690e56b8fa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mydfmX6V8n5QCSemmkFFIEvcne" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Alert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Face_detection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fast_DF_TTS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Image_gen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JARVIS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MVbrain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TV_Automation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Temp NO..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Translate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.call.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python.co_brain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datafeatch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gen_image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generated_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.google_big.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gpt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jarvis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mail_auto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.schedule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.schedule_JARVIS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.something.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ui1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wappmsg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xyz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/J.A.R.V.I.S&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="JARVIS" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="J.A.R.V.I.S" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JARVIS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6476b93-4984-4855-9c1a-8d690e56b8fa" name="Changes" comment="" />
+      <created>1728052856161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728052856161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

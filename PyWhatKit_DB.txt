@@ -1,0 +1,20 @@
+Date: 18/10/2024
+Time: 14:32
+Phone Number: +917838123873
+Message: Hello, this is a test message from Jarvis!
+--------------------
+Date: 18/10/2024
+Time: 14:34
+Phone Number: +917838123873
+Message: Hello, this is a test message from Jarvis!
+--------------------
+Date: 18/10/2024
+Time: 15:35
+Phone Number: +918076843976
+Message: hi dad this is a text message from python
+--------------------
+Date: 20/10/2024
+Time: 15:24
+Phone Number: +917838123873
+Message: hi momo are you i am jarvis and this is my test message
+--------------------

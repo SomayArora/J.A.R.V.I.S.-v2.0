@@ -1,0 +1,48 @@
+#Title: Preparation of Shampoo
+
+#Slide: 1
+#Header: table of contents
+#Content: 1. Introduction to Shampoo  
+2. Ingredients Overview  
+3. Equipment Needed  
+4. Preparation Steps  
+5. Tips for Formulation  
+6. Common Variations  
+7. Safety Considerations  
+8. Summary
+
+#Slide: 2
+#Header: Introduction to Shampoo
+#Content: Shampoo is a cleansing product used for hair. It removes dirt, oil, and product buildup while maintaining hair health.
+
+#Slide: 3
+#Header: Ingredients Overview
+#Content: Key ingredients include surfactants, thickeners, preservatives, and fragrances. Each plays a vital role in effectiveness and user experience.
+
+#Slide: 4
+#Header: Equipment Needed
+#Content: Essential equipment includes mixing bowls, scales, stirrers, and storage containers. Proper tools ensure accurate measurements and mixing.
+
+#Slide: 5
+#Header: Preparation Steps
+#Content: 1. Measure ingredients accurately.  
+2. Mix surfactants with water.  
+3. Add thickeners and other ingredients.  
+4. Stir until homogenous.  
+5. Bottle and label.
+
+#Slide: 6
+#Header: Tips for Formulation
+#Content: Start with small batches. Test pH and viscosity. Adjust fragrance and color as desired. Document each variation for future reference.
+
+#Slide: 7
+#Header: Common Variations
+#Content: Explore variations like moisturizing, clarifying, or natural shampoos. Each variation targets specific hair needs and preferences.
+
+#Slide: 8
+#Header: Safety Considerations
+#Content: Always wear gloves and goggles. Follow guidelines for safe ingredient handling. Store in a cool, dry place away from direct sunlight.
+
+#Slide: 9
+#Header: summary
+#Content: This presentation covered shampoo preparation, including ingredients, equipment, steps, and safety. Understanding these elements leads to effective formulations.

@@ -1,0 +1,44 @@
+#Title: DIWALI: THE FESTIVAL OF LIGHTS
+
+#Slide: 1
+#Header: table of contents
+#Content: 1. What is Diwali?  
+2. Significance of Diwali  
+3. Traditions and Rituals  
+4. Diwali Celebrations  
+5. Foods and Sweets  
+6. Diwali Around the World  
+7. Environmental Impact  
+8. Summary
+
+#Slide: 2
+#Header: What is Diwali?
+#Content: Diwali, also known as Deepavali, is a five-day Hindu festival celebrating the victory of light over darkness and good over evil. It typically falls in October or November.
+
+#Slide: 3
+#Header: Significance of Diwali
+#Content: Diwali symbolizes the return of Lord Rama to Ayodhya after defeating Ravana. It also honors Goddess Lakshmi, the deity of wealth and prosperity, inviting blessings into homes.
+
+#Slide: 4
+#Header: Traditions and Rituals
+#Content: Key traditions include lighting diyas (lamps), decorating homes, performing prayers (puja), and bursting fireworks. Each day has its unique significance and rituals.
+
+#Slide: 5
+#Header: Diwali Celebrations
+#Content: Diwali is celebrated with enthusiasm through family gatherings, cultural performances, and community events. Homes are adorned with lights and rangoli (art patterns).
+
+#Slide: 6
+#Header: Foods and Sweets
+#Content: Sweets like ladoos, barfis, and gulab jamun are central to Diwali. Families prepare special meals and share treats with neighbors and friends to spread joy.
+
+#Slide: 7
+#Header: Diwali Around the World
+#Content: Diwali is celebrated globally, especially in India, Nepal, and among Indian communities worldwide. Festivals feature cultural programs and unite diverse communities.
+
+#Slide: 8
+#Header: Environmental Impact
+#Content: Diwali's fireworks contribute to air pollution. Eco-friendly celebrations are encouraged, focusing on sustainable practices, such as using less harmful fireworks and eco-friendly decorations.
+
+#Slide: 9
+#Header: summary
+#Content: Diwali is a vibrant festival celebrating light, unity, and prosperity. With rich traditions and global recognition, it's a time for joy, reflection, and a commitment to sustainability.
