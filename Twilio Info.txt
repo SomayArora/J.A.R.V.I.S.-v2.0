@@ -1,3 +1,3 @@
-Account SID-: AC346d1936c7a9d988d1bc0d17b68bb767
-Auth Token-: 2bfd4c10b51343447a598dca9cd71c34
-Twilion no-: +17756004110
+Account SID-: 
+Auth Token-:
+Twilion no-:
