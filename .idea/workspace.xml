@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6476b93-4984-4855-9c1a-8d690e56b8fa" name="Changes" comment="" />
+    <list default="true" id="b6476b93-4984-4855-9c1a-8d690e56b8fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SomayArora"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SomayArora/J.A.R.V.I.S..git",
+    "accountId": "1e0688b7-bac5-4bc0-a0c5-b02ea732452a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -29,45 +43,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Alert.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Face_detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fast_DF_TTS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Image_gen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.JARVIS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MVbrain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TV_Automation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Temp NO..executor&quot;: &quot;Run&quot;,
-    &quot;Python.Translate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.call.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check_weather.executor&quot;: &quot;Run&quot;,
-    &quot;Python.co_brain.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datafeatch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gen_image.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generated_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.google_big.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gpt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.insta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jarvis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mail_auto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.schedule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.schedule_JARVIS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.something.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ui1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wappmsg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.xyz.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/J.A.R.V.I.S&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Alert.executor": "Run",
+    "Python.Face_detection.executor": "Run",
+    "Python.Fast_DF_TTS.executor": "Run",
+    "Python.Image_gen.executor": "Run",
+    "Python.JARVIS.executor": "Run",
+    "Python.MVbrain.executor": "Run",
+    "Python.Prime.executor": "Run",
+    "Python.TV_Automation.executor": "Run",
+    "Python.Temp NO..executor": "Run",
+    "Python.Translate.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.call.executor": "Run",
+    "Python.check.executor": "Run",
+    "Python.check_weather.executor": "Run",
+    "Python.co_brain.executor": "Run",
+    "Python.datafeatch.executor": "Run",
+    "Python.gen_image.executor": "Run",
+    "Python.generated_code.executor": "Run",
+    "Python.google_big.executor": "Run",
+    "Python.gpt.executor": "Run",
+    "Python.insta.executor": "Run",
+    "Python.jarvis.executor": "Run",
+    "Python.mail_auto.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.schedule.executor": "Run",
+    "Python.schedule_JARVIS.executor": "Run",
+    "Python.something.executor": "Run",
+    "Python.ui1.executor": "Run",
+    "Python.wappmsg.executor": "Run",
+    "Python.xyz.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/J.A.R.V.I.S",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="JARVIS" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="J.A.R.V.I.S" />

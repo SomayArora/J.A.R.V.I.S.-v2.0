@@ -16,3 +16,5 @@ def Alert(Text):
     toast.add_actions(label="Click me", launch="https://www.google.com")
     toast.add_actions(label="Dismiss", launch="https://www.google.com")
     toast.show()
+
+Alert("This is a test alert from J.A.R.V.I.S.")
