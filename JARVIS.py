@@ -267,19 +267,7 @@ def Taskexe():
         results = sp.search(q=playlist_name, type='playlist', limit=1)
 
         if playlist_name == 'all time':
-            webbrowser.open('https://open.spotify.com/playlist/761HHHmSWBTmivLUWX8hiE?si=16ac762165834f78')
-
-        elif playlist_name == 'mummy':
-            webbrowser.open('https://open.spotify.com/playlist/5hGU04OFTNXXvnLzUtueIF?si=6127d7297c194fa1')
-
-        elif playlist_name == 'bhajan':
-            webbrowser.open('https://open.spotify.com/playlist/1a0NGg9Dg0mlV4r9i8xPUe?si=a5fdbc59673f428f')
-
-        elif playlist_name == 'phonks':
-            webbrowser.open('https://open.spotify.com/playlist/2ybCjdtGz51PNkFlRwMGgJ?si=71a5955dd40846da')
-
-        elif playlist_name == 'turkish':
-            webbrowser.open('https://open.spotify.com/playlist/6Rq01YfYJlVGw1M8RUJUxP?si=2bc6bdb476274cab')
+            #play playlist
 
         elif results['playlists']['items']:
             playlist = results['playlists']['items'][0]
@@ -1522,25 +1510,7 @@ def Taskexe():
                 if input_text != task:
                     task = input_text
                     if 'all time' in task:
-                        webbrowser.open(
-                            'https://open.spotify.com/playlist/761HHHmSWBTmivLUWX8hiE?si=16ac762165834f78')
-                        gui.click(x=367, y=323)
-                    elif 'mummy' in task:
-                        webbrowser.open(
-                            'https://open.spotify.com/playlist/5hGU04OFTNXXvnLzUtueIF?si=6127d7297c194fa1')
-                        gui.click(x=367, y=323)
-                    elif 'bhajan' in task:
-                        webbrowser.open(
-                            'https://open.spotify.com/playlist/1a0NGg9Dg0mlV4r9i8xPUe?si=a5fdbc59673f428f')
-                        gui.click(x=367, y=323)
-                    elif 'phonks' in task:
-                        webbrowser.open(
-                            'https://open.spotify.com/playlist/2ybCjdtGz51PNkFlRwMGgJ?si=71a5955dd40846da')
-                        gui.click(x=367, y=323)
-                    elif 'turkish' in task:
-                        webbrowser.open(
-                            'https://open.spotify.com/playlist/6Rq01YfYJlVGw1M8RUJUxP?si=2bc6bdb476274cab')
-                        gui.click(x=367, y=323)
+                        #play playlist
                     else:
                         search_playlist(task)
                     speak("Enjoy some music sir")
@@ -1566,16 +1536,6 @@ def Taskexe():
 
         elif "whatsapp" in task and "message" in task:
             name = task.replace("jarvis","").replace("send a", "").replace("whatsapp", "").replace("message", "").replace("on", "").replace("to", "").replace("sent a", "").replace("send","").replace("sent","").strip()
-            if name == "mother" or name == "mom" or name == "mummy" or name=="mum":
-                ph_no = "+917838123873"
-            elif name == "father" or name == "dad" or name == "papa":
-                ph_no = "+918076843976"
-            elif name == "aditya":
-                ph_no = "+919354448079"
-            elif "sanchit" in name:
-                ph_no = "+919354448079"
-            elif "arnav" in name:
-                ph_no = "+918178307584"
             else:
                 speak(f"sir,{name} is not in my contact list")
                 speak("Please enter their contact number")
@@ -1595,10 +1555,7 @@ def Taskexe():
         elif "mail" in task or "email" in task or "gmail" in task:
 
             name = task.replace("jarvis", "").replace("send a", "").replace("gmail", "").replace("email","").replace("mail","").replace("to", "").replace("sent a", "").replace("send", "").replace("sent", "").strip()
-            if name == "mother" or name == "mom" or name == "mummy" or name=="mum":
-                receiver_email = "arorasanjanaarora31@gmail.com"
-            elif name == "father" or name == "dad" or name == "papa":
-                receiver_email = "somayrohit68@gmail.com"
+        
             else:
                 speak(f"The Gmail ID of {name} is not stored in my database")
                 speak("Please enter their gmail ID")
@@ -1860,7 +1817,7 @@ def Taskexe():
             speak("I am Always here to assist you")
 
         elif "tell me" in task:
-            API = "AIzaSyCWWP_F_XxKUlS2kZrmRkC1-bV-fDoci5Q"
+            API = ""
 
             task = task.replace("jarivs", "").strip()
             task = task.replace("tell me", "").strip()
